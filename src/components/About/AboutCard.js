@@ -8,32 +8,29 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi everyone! I’m <span className="purple">Gaddar Kumar Chaudhary</span>{" "}
-            from <span className="purple"> India</span>.
-            <br />
-            I’m currently working as a{" "}
-            <span className="purple">Android Developer</span>.
-            <br />I have completed my graduation in{" "}
-            <span className="purple">Computer Science</span>.
+            Hi, I am <span className="purple">Gaddar Kumar Chaudhary</span>, a <span className="purple">Computer Science graduate</span> from <span className="purple">Siliguri Institute of Technology</span>.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            I am an <span className="purple">Associate Software Developer</span> at <span className="purple">Devkraft Technologies</span> with <span className="purple">2 years of experience</span> in <span className="purple">Android</span> and <span className="purple">Java backend development</span>.
+            <br />
+            <br />
+            I am proficient in <span className="purple">Spring Boot</span> and <span className="purple">Python frameworks (Django, FastAPI, Flask)</span>, allowing me to seamlessly switch between mobile and backend tasks.
           </p>
 
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Scrolling instagram reels
             </li>
             <li className="about-activity">
-              <ImPointRight /> Learning New Tech
+              <ImPointRight /> Watching anime
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Travelling in sleep
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Life would be so much easier if I had the source code.😎"{" "}
           </p>
           <footer className="blockquote-footer">Gaddar</footer>
         </blockquote>
