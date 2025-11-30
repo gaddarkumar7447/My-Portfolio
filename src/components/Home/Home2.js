@@ -13,40 +13,39 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I'm a passionate and enthusiastic learner who loves to play with data structure and algorithms.
+              I am a versatile developer with a passion for building end-to-end solutions.
               <br />
-              <br />I am interested in
+              <br />I started my journey mastering
               <i>
-                <b className="purple"> Android Development </b>
+                <b className="purple"> Java </b>
               </i>
-              and problem-solving using
+              and
               <i>
-                <b className="purple"> Java. </b>
+                <b className="purple"> Android Development</b>
               </i>
-              <br />
-              <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
-                </b>
-              </i>
+              , creating intuitive mobile experiences.
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              Expanding my horizons, I delved into backend engineering with
               <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
+                <b className="purple"> Python </b>
               </i>
-              &nbsp; like
+              , leveraging powerful frameworks like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> Django and FastAPI </b>
               </i>
+              to build scalable APIs and microservices.
+              <br />
+              <br />
+              Currently, I am deeply invested in the world of
+              <i>
+                <b className="purple"> Generative AI </b>
+              </i>
+              and
+              <i>
+                <b className="purple"> Large Language Models (LLMs)</b>
+              </i>
+              , exploring how to integrate intelligent agents into modern web and mobile applications.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

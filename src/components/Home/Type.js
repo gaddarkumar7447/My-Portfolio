@@ -8,8 +8,8 @@ function Type() {
         strings: [
           "Android Developer",
           "Java Developer",
-          "Python Developer",
-          "Problem Solver",
+          "Python Developer (Django & FastAPI)",
+          "Generative AI Engineer",
           "Open Source Contributor",
         ],
         autoStart: true,
