@@ -1,11 +1,13 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { SiKotlin, SiAndroid, SiLinux, SiFastapi, SiDjango, SiOpenai, SiSpring } from "react-icons/si";
+import { SiKotlin, SiAndroid, SiLinux, SiFastapi, SiDjango, SiOpenai, SiSpring, SiJavascript, SiJetpackcompose } from "react-icons/si";
 import Java from "../../Assets/TechIcons/Java.svg";
 import Python from "../../Assets/TechIcons/Python.svg";
 import Firebase from "../../Assets/TechIcons/Firebase.svg";
 import SQL from "../../Assets/TechIcons/SQL.svg";
 import Node from "../../Assets/TechIcons/Node.svg";
+import { BsFiletypeXml } from "react-icons/bs";
+
 
 
 function Techstack() {
@@ -28,8 +30,23 @@ function Techstack() {
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
+        <SiJavascript fontSize={"24px"} />
+        <div className="tech-icons-text">JavaScript</div>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <BsFiletypeXml fontSize={"24px"} />
+        <div className="tech-icons-text">XML</div>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
         <SiAndroid fontSize={"24px"} />
         <div className="tech-icons-text">Android</div>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <SiJetpackcompose fontSize={"24px"} />
+        <div className="tech-icons-text">Jetpack Compose</div>
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
